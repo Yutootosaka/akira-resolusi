@@ -2,7 +2,9 @@ RENCANA KU
 - JAVA
   * ES6
   * Frameworks Java
-- Structur Data Dasar
+    ^ Angular
+    ^ React
 - PHP Frameworks
+    ^ Laravel
 - Interview
 - Vlogs
