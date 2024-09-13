@@ -3,6 +3,7 @@ RENCANA KU
   * ES6
   * Frameworks Java
     ^ Vue
+    ^ React
 - Structur Data Dasar
 - PHP Frameworks
  ^ Laravel
