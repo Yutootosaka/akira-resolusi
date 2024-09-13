@@ -2,7 +2,10 @@ RENCANA KU
 - JAVA
   * ES6
   * Frameworks Java
+    ^ Vue
 - Structur Data Dasar
 - PHP Frameworks
+ ^ Laravel
 - Interview
 - Vlogs
+- Python
